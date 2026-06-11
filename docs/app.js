@@ -32,20 +32,34 @@ function extractBookName(livro) {
 async function findPageForChapter(pdf, livro, chapter) {
   const bookName = normalizeText(extractBookName(livro));
   const chapterToken = `${chapter}`;
+  const patterns = [
+    `${bookName} ${chapterToken}`,
+    `${bookName}${chapterToken}`,
+    `${bookName} ${chapterToken}-`,
+    `${bookName} ${chapterToken}.`,
+    `${bookName} ${chapterToken},`,
+    `${bookName}:${chapterToken}`,
+    `${bookName} ${chapterToken}:`,
+    `${chapterToken} ${bookName}`
+  ];
+
   for (let page = 1; page <= pdf.numPages; page += 1) {
     try {
       const pdfPage = await pdf.getPage(page);
       const textContent = await pdfPage.getTextContent();
       const pageText = normalizeText(textContent.items.map(item => item.str).join(' '));
-      const candidate = `${bookName} ${chapterToken}`;
-      const candidate2 = `${bookName}${chapterToken}`;
-      if (pageText.includes(candidate) || pageText.includes(candidate2)) {
+      if (patterns.some(pattern => pageText.includes(pattern))) {
         return page;
       }
     } catch (err) {
       console.warn('Erro lendo página PDF', page, err);
     }
   }
+
+  if (chapter >= 1 && chapter <= pdf.numPages) {
+    return chapter;
+  }
+
   return 1;
 }
 
@@ -118,7 +132,9 @@ function toggleConcluido(dia, currentStatus, e) {
 
 function renderPdfFallback(pdfFile, info = {}) {
   const viewer = document.getElementById('pdf-viewer');
-  viewer.innerHTML = `<iframe src="${pdfFile}" style="width:100%; height:100%; border:none;"></iframe>`;
+  const pageNum = info.page || info.chapter || 1;
+  const src = pageNum > 1 ? `${pdfFile}#page=${pageNum}` : pdfFile;
+  viewer.innerHTML = `<iframe src="${src}" style="width:100%; height:100%; border:none;"></iframe>`;
   document.getElementById('pdf-page').textContent = '';
   document.getElementById('pdf-title').textContent = `${info.livro || 'Bíblia'} - ${info.capitulos || 'PDF completo'}`;
 }
