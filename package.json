@@ -1,0 +1,14 @@
+{
+  "name": "biblia-app",
+  "version": "1.0.0",
+  "description": "Aplicação Bíblia",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "cd server && npm start",
+    "import": "cd server && npm run import",
+    "install-all": "npm install && cd server && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
