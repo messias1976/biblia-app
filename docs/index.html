@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Bíblia em 180 Dias — Viewer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f5f5f5; height: 100vh; overflow: hidden; }
+      .container { display: flex; height: 100vh; }
+      .left-panel { width: 40%; border-right: 2px solid #ddd; background: white; overflow-y: auto; padding: 20px; }
+      .right-panel { width: 60%; background: white; display: flex; flex-direction: column; overflow: hidden; }
+      h1 { color: #333; margin-bottom: 20px; font-size: 24px; }
+      .search-box { display: flex; gap: 10px; margin-bottom: 15px; }
+      .search-box input { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 5px; font-size: 14px; }
+      .count { font-size: 13px; color: #666; margin-bottom: 10px; padding: 10px; background: #f9f9f9; border-radius: 5px; }
+      table { border-collapse: collapse; width: 100%; font-size: 13px; }
+      th { background: #2c3e50; color: white; padding: 12px; text-align: left; font-weight: 600; }
+      td { border-bottom: 1px solid #eee; padding: 10px; }
+      tr { cursor: pointer; transition: background 0.2s; }
+      tr:hover { background: #e8f4f8; }
+      tr.active { background: #d4edda; }
+      button { cursor: pointer; border: none; background: none; font-size: 16px; padding: 2px 6px; }
+      .pdf-header { display: flex; align-items: center; gap: 10px; padding: 15px; background: #2c3e50; color: white; }
+      .pdf-header h2 { flex: 1; font-size: 16px; margin: 0; }
+      .pdf-controls { display: flex; gap: 5px; }
+      .pdf-controls button { background: #34495e; color: white; padding: 6px 10px; border-radius: 3px; font-size: 12px; }
+      .pdf-controls button:hover { background: #495973; }
+      #pdf-viewer { flex: 1; overflow: auto; background: #e0e0e0; padding: 10px; }
+      .pdf-canvas { display: block; margin: 10px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+      .pdf-no-file { display: flex; align-items: center; justify-content: center; height: 100%; color: #999; font-size: 14px; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="left-panel">
+        <h1>📖 Bíblia em 180 Dias</h1>
+        <div class="search-box">
+          <input id="q" placeholder="🔍 Pesquisar..." />
+        </div>
+        <div class="count" id="count"></div>
+        <table id="table">
+          <thead id="thead"></thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+      <div class="right-panel">
+        <div class="pdf-header">
+          <h2 id="pdf-title">Selecione um dia para abrir a Bíblia</h2>
+          <div class="pdf-controls">
+            <button id="pdf-prev">← Anterior</button>
+            <span id="pdf-page"></span>
+            <button id="pdf-next">Próximo →</button>
+          </div>
+        </div>
+        <div id="pdf-viewer">
+          <div class="pdf-no-file">Selecione um dia na tabela para visualizar a Bíblia</div>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

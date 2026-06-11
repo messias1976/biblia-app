@@ -1,0 +1,980 @@
+[
+  {
+    "Dia": 1,
+    "Período/Livro": "Evangelho - Mateus",
+    "Capítulos/Passagem": "Matéus 1-9",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 2,
+    "Período/Livro": "Evangelho - Mateus",
+    "Capítulos/Passagem": "Matéus 10-15",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 3,
+    "Período/Livro": "Evangelho - Mateus",
+    "Capítulos/Passagem": "Matéus 16-22",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 4,
+    "Período/Livro": "Evangelho - Mateus",
+    "Capítulos/Passagem": "Matéus 23-28",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 5,
+    "Período/Livro": "Evangelho - Marcos",
+    "Capítulos/Passagem": "Marcos 1-8",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 6,
+    "Período/Livro": "Evangelho - Marcos",
+    "Capítulos/Passagem": "Marcos 9-16",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 7,
+    "Período/Livro": "Evangelho - Lucas",
+    "Capítulos/Passagem": "Lucas 1-6",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 8,
+    "Período/Livro": "Evangelho - Lucas",
+    "Capítulos/Passagem": "Lucas 7-11",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 9,
+    "Período/Livro": "Evangelho - Lucas",
+    "Capítulos/Passagem": "Lucas 12-18",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 10,
+    "Período/Livro": "Evangelho - Lucas",
+    "Capítulos/Passagem": "Lucas 19-24",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 11,
+    "Período/Livro": "Evangelho - João",
+    "Capítulos/Passagem": "João 1-7",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 12,
+    "Período/Livro": "Evangelho - João",
+    "Capítulos/Passagem": "João 8-13",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 13,
+    "Período/Livro": "Históricos - Atos",
+    "Capítulos/Passagem": "Atos 1-10",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 14,
+    "Período/Livro": "Históricos - Atos",
+    "Capítulos/Passagem": "Atos 11-20",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 15,
+    "Período/Livro": "Cartas de Paulo - Romanos",
+    "Capítulos/Passagem": "Romanos 1-8",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 16,
+    "Período/Livro": "Cartas de Paulo - Romanos",
+    "Capítulos/Passagem": "Romanos 9-16",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 17,
+    "Período/Livro": "Cartas de Paulo - 1 Coríntios",
+    "Capítulos/Passagem": "1 Coríntios 1-9",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 18,
+    "Período/Livro": "Cartas de Paulo - 1 Coríntios",
+    "Capítulos/Passagem": "1 Coríntios 10-16",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 19,
+    "Período/Livro": "Cartas de Paulo - 2 Coríntios",
+    "Capítulos/Passagem": "2 Coríntios 1-13",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 20,
+    "Período/Livro": "Cartas de Paulo - Gálatas, Efésios",
+    "Capítulos/Passagem": "Gálatas 1-6, Efésios 1-6",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 21,
+    "Período/Livro": "Cartas de Paulo - Filipenses, Colossenses",
+    "Capítulos/Passagem": "Filipenses 1-4, Colossenses 1-4",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 22,
+    "Período/Livro": "Cartas Gerais - Tessalonicenses, Timéteo",
+    "Capítulos/Passagem": "1-2 Tessalonicenses 1-5 cada, 1 Timéteo 1-6",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 23,
+    "Período/Livro": "Cartas Gerais - Timéteo, Tito, Filemóm",
+    "Capítulos/Passagem": "2 Timéteo 1-4, Tito 1-3, Filemóm 1",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 24,
+    "Período/Livro": "Cartas Gerais - Hebreus",
+    "Capítulos/Passagem": "Hebreus 1-13",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 25,
+    "Período/Livro": "Cartas Gerais - Tiago, Pedro",
+    "Capítulos/Passagem": "Tiago 1-5, 1 Pedro 1-5",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 26,
+    "Período/Livro": "Cartas Gerais - 2 Pedro, 1-3 João, Judas",
+    "Capítulos/Passagem": "2 Pedro 1-3, 1 João 1-5, 2-3 João, Judas",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 27,
+    "Período/Livro": "Apocaulipse",
+    "Capítulos/Passagem": "Apocalipse 1-11",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 28,
+    "Período/Livro": "Apocalipse",
+    "Capítulos/Passagem": "Apocalipse 12-22",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 29,
+    "Período/Livro": "Novo Testamento - Resumo",
+    "Capítulos/Passagem": "Revisão dos Destaques NT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 30,
+    "Período/Livro": "Novo Testamento - Resumo",
+    "Capítulos/Passagem": "Revisão dos Destaques NT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 31,
+    "Período/Livro": "Pentateuco - Gênesis",
+    "Capítulos/Passagem": "Gênesis 1-10",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 32,
+    "Período/Livro": "Pentateuco - Gênesis",
+    "Capítulos/Passagem": "Gênesis 11-20",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 33,
+    "Período/Livro": "Pentateuco - Gênesis",
+    "Capítulos/Passagem": "Gênesis 21-30",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 34,
+    "Período/Livro": "Pentateuco - Gênesis",
+    "Capítulos/Passagem": "Gênesis 31-50",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 35,
+    "Período/Livro": "Pentateuco - Ôxodo",
+    "Capítulos/Passagem": "Ôxodo 1-10",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 36,
+    "Período/Livro": "Pentateuco - Ôxodo",
+    "Capítulos/Passagem": "Ôxodo 11-20",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 37,
+    "Período/Livro": "Pentateuco - Ôxodo",
+    "Capítulos/Passagem": "Ôxodo 21-30",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 38,
+    "Período/Livro": "Pentateuco - Ôxodo",
+    "Capítulos/Passagem": "Ôxodo 31-40",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 39,
+    "Período/Livro": "Pentateuco - Levítico",
+    "Capítulos/Passagem": "Levítico 1-17",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 40,
+    "Período/Livro": "Pentateuco - Levítico",
+    "Capítulos/Passagem": "Levítico 18-27",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 41,
+    "Período/Livro": "Pentateuco - Números",
+    "Capítulos/Passagem": "Números 1-15",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 42,
+    "Período/Livro": "Pentateuco - Números",
+    "Capítulos/Passagem": "Números 16-36",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 43,
+    "Período/Livro": "Pentateuco - Deuteronômio",
+    "Capítulos/Passagem": "Deuteronômio 1-18",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 44,
+    "Período/Livro": "Pentateuco - Deuteronômio",
+    "Capítulos/Passagem": "Deuteronômio 19-34",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 45,
+    "Período/Livro": "Históricos - Joá",
+    "Capítulos/Passagem": "Josuá 1-12",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 46,
+    "Período/Livro": "Históricos - Josuá",
+    "Capítulos/Passagem": "Josuá 13-24",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 47,
+    "Período/Livro": "Históricos - Juízes, Rute",
+    "Capítulos/Passagem": "Juízes 1-15, Rute 1-4",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 48,
+    "Período/Livro": "Históricos - Juízes, Rute",
+    "Capítulos/Passagem": "Juízes 16-21, Rute 1-4",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 49,
+    "Período/Livro": "Históricos - 1 Samuel",
+    "Capítulos/Passagem": "1 Samuel 1-15",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 50,
+    "Período/Livro": "Históricos - 1 Samuel",
+    "Capítulos/Passagem": "1 Samuel 16-31",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 51,
+    "Período/Livro": "Históricos - 2 Samuel",
+    "Capítulos/Passagem": "2 Samuel 1-15",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 52,
+    "Período/Livro": "Históricos - 2 Samuel",
+    "Capítulos/Passagem": "2 Samuel 16-24",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 53,
+    "Período/Livro": "Históricos - 1 Reis",
+    "Capítulos/Passagem": "1 Reis 1-11",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 54,
+    "Período/Livro": "Históricos - 1 Reis",
+    "Capítulos/Passagem": "1 Reis 12-22",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 55,
+    "Período/Livro": "Históricos - 2 Reis",
+    "Capítulos/Passagem": "2 Reis 1-15",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 56,
+    "Período/Livro": "Históricos - 2 Reis",
+    "Capítulos/Passagem": "2 Reis 16-25",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 57,
+    "Período/Livro": "Históricos - 1-2 Crônicas",
+    "Capítulos/Passagem": "1 Crônicas 1-18",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 58,
+    "Período/Livro": "Históricos - 1-2 Crônicas",
+    "Capítulos/Passagem": "1 Crônicas 19-29, 2 Crônicas 1-5",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 59,
+    "Período/Livro": "Históricos - 2 Crônicas",
+    "Capítulos/Passagem": "2 Crônicas 6-16",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 60,
+    "Período/Livro": "Históricos - 2 Crônicas",
+    "Capítulos/Passagem": "2 Crônicas 17-36",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 61,
+    "Período/Livro": "Históricos - Esdras, Neemiás",
+    "Capítulos/Passagem": "Esdras 1-10, Nemeias 1-4",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 62,
+    "Período/Livro": "Históricos - Neemiás, Ester",
+    "Capítulos/Passagem": "Nemeias 5-13, Ester 1-10",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 63,
+    "Período/Livro": "Poesia e Sabedoria - Jó",
+    "Capítulos/Passagem": "Jó 1-21",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 64,
+    "Período/Livro": "Poesia e Sabedoria - Jó",
+    "Capítulos/Passagem": "Jó 22-42",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 65,
+    "Período/Livro": "Poesia e Sabedoria - Salmos",
+    "Capítulos/Passagem": "Salmos 1-30",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 66,
+    "Período/Livro": "Poesia e Sabedoria - Salmos",
+    "Capítulos/Passagem": "Salmos 31-60",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 67,
+    "Período/Livro": "Poesia e Sabedoria - Salmos",
+    "Capítulos/Passagem": "Salmos 61-90",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 68,
+    "Período/Livro": "Poesia e Sabedoria - Salmos",
+    "Capítulos/Passagem": "Salmos 91-120",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 69,
+    "Período/Livro": "Poesia e Sabedoria - Salmos",
+    "Capítulos/Passagem": "Salmos 121-150",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 70,
+    "Período/Livro": "Poesia e Sabedoria - Proveŕbios",
+    "Capítulos/Passagem": "Proverbios 1-18",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 71,
+    "Período/Livro": "Poesia e Sabedoria - Proveŕbios",
+    "Capítulos/Passagem": "Proverbios 19-31",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 72,
+    "Período/Livro": "Poesia e Sabedoria - Eclesiastes, Cántico",
+    "Capítulos/Passagem": "Eclesiastes 1-12, Cántico 1-8",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 73,
+    "Período/Livro": "Profetas Maiores - Isaiás",
+    "Capítulos/Passagem": "Isaías 1-21",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 74,
+    "Período/Livro": "Profetas Maiores - Isaiás",
+    "Capítulos/Passagem": "Isaías 22-45",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 75,
+    "Período/Livro": "Profetas Maiores - Isaiás",
+    "Capítulos/Passagem": "Isaías 46-66",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 76,
+    "Período/Livro": "Profetas Maiores - Jeremias",
+    "Capítulos/Passagem": "Jeremias 1-20",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 77,
+    "Período/Livro": "Profetas Maiores - Jeremias",
+    "Capítulos/Passagem": "Jeremias 21-44",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 78,
+    "Período/Livro": "Profetas Maiores - Jeremias, Lamentac̃ões",
+    "Capítulos/Passagem": "Jeremias 45-52, Lamentac̃ões 1-5",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 79,
+    "Período/Livro": "Profetas Maiores - Ezequiel",
+    "Capítulos/Passagem": "Ezequiel 1-18",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 80,
+    "Período/Livro": "Profetas Maiores - Ezequiel",
+    "Capítulos/Passagem": "Ezequiel 19-39",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 81,
+    "Período/Livro": "Profetas Maiores - Ezequiel",
+    "Capítulos/Passagem": "Ezequiel 40-48",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 82,
+    "Período/Livro": "Profetas Maiores - Daniel",
+    "Capítulos/Passagem": "Daniel 1-12",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 83,
+    "Período/Livro": "Profetas Menores - Oseiás",
+    "Capítulos/Passagem": "Oseiás 1-14",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 84,
+    "Período/Livro": "Profetas Menores - Joel, Amós",
+    "Capítulos/Passagem": "Joel 1-3, Amós 1-9",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 85,
+    "Período/Livro": "Profetas Menores - Obadias, Jonas",
+    "Capítulos/Passagem": "Obadias 1, Jonas 1-4",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 86,
+    "Período/Livro": "Profetas Menores - Miqueias",
+    "Capítulos/Passagem": "Miqueias 1-7",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 87,
+    "Período/Livro": "Profetas Menores - Naum, Habacuque",
+    "Capítulos/Passagem": "Naum 1-3, Habacuque 1-3",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 88,
+    "Período/Livro": "Profetas Menores - Sofonias",
+    "Capítulos/Passagem": "Sofonias 1-3",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 89,
+    "Período/Livro": "Profetas Menores - Ageu, Zacarias",
+    "Capítulos/Passagem": "Ageu 1-2, Zacarias 1-8",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 90,
+    "Período/Livro": "Profetas Menores - Zacarias, Malaquias",
+    "Capítulos/Passagem": "Zacarias 9-14, Malaquias 1-4",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 91,
+    "Período/Livro": "Antigo Testamento - Revisão",
+    "Capítulos/Passagem": "Revisão - Pentateuco Highlights",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 92,
+    "Período/Livro": "Antigo Testamento - Revisão",
+    "Capítulos/Passagem": "Revisão - Históricos Highlights",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 93,
+    "Período/Livro": "Antigo Testamento - Revisão",
+    "Capítulos/Passagem": "Revisão - Poesia Highlights",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 94,
+    "Período/Livro": "Antigo Testamento - Revisão",
+    "Capítulos/Passagem": "Revisão - Profetas Maiores Highlights",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 95,
+    "Período/Livro": "Antigo Testamento - Revisão",
+    "Capítulos/Passagem": "Revisão - Profetas Menores Highlights",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 96,
+    "Período/Livro": "Reflexão - Més 1 Resumo",
+    "Capítulos/Passagem": "Reflexão: Aprendizados do Mês 1",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 97,
+    "Período/Livro": "Reflexão - Més 1 Resumo",
+    "Capítulos/Passagem": "Reflexão: Versículos-chave memorizados",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 98,
+    "Período/Livro": "Estudo Aprofundado - Temas do AT",
+    "Capítulos/Passagem": "Tema: Séries profundas do AT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 99,
+    "Período/Livro": "Estudo Aprofundado - Conecões",
+    "Capítulos/Passagem": "Conexões: AT - NT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 100,
+    "Período/Livro": "Estudo Aprofundado - Teologia",
+    "Capítulos/Passagem": "Tópico: Teologia do Antigo Testamento",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 101,
+    "Período/Livro": "Estudo Aprofundado - Personagens",
+    "Capítulos/Passagem": "Estudo: Personagens-chave do AT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 102,
+    "Período/Livro": "Estudo Aprofundado - Profecia",
+    "Capítulos/Passagem": "Tema: Profecias Messiânicas",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 103,
+    "Período/Livro": "Estudo Aprofundado - Leis e Alianças",
+    "Capítulos/Passagem": "Tema: Leis, Alianças e Sacrifícios",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 104,
+    "Período/Livro": "Estudo Aprofundado - Hinos e Óracoes",
+    "Capítulos/Passagem": "Estudo: Hinos e Órac̃ões Modelos",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 105,
+    "Período/Livro": "Estudo Aprofundado - Sabedoria",
+    "Capítulos/Passagem": "Tema: Literatura de Sabedoria",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 106,
+    "Período/Livro": "Estudo Aprofundado - Saúde Espiritual",
+    "Capítulos/Passagem": "Tema: Cura e Salão Espiritual no AT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 107,
+    "Período/Livro": "Estudo Aprofundado - O Pecado",
+    "Capítulos/Passagem": "Tema: Queda, Pecado e Redenção",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 108,
+    "Período/Livro": "Estudo Aprofundado - A Lei",
+    "Capítulos/Passagem": "Tema: A Lei de Deus - Propósito e Aplicação",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 109,
+    "Período/Livro": "Estudo Aprofundado - Graça",
+    "Capítulos/Passagem": "Tema: Graça de Deus no AT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 110,
+    "Período/Livro": "Estudo Aprofundado - A Família",
+    "Capítulos/Passagem": "Tema: A Família no Plano de Deus",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 111,
+    "Período/Livro": "Estudo Aprofundado - Louvor e Adoração",
+    "Capítulos/Passagem": "Tema: Louvor, Adoraão e Worśip",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 112,
+    "Período/Livro": "Estudo Aprofundado - Morte e Eternidade",
+    "Capítulos/Passagem": "Tema: Morte, Céu, Inferno e Eternidade",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 113,
+    "Período/Livro": "Estudo Aprofundado - Liderança Biblica",
+    "Capítulos/Passagem": "Estudo: Líderes Bíblicos - Lições",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 114,
+    "Período/Livro": "Estudo Aprofundado - Persas e Guerras",
+    "Capítulos/Passagem": "Tema: Conflitos - Espiritual e Físico",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 115,
+    "Período/Livro": "Estudo Aprofundado - Justiça e Misericórdia",
+    "Capítulos/Passagem": "Tema: Justiça, Misericórdia e Compaíxão",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 116,
+    "Período/Livro": "Estudo Aprofundado - Adoradores",
+    "Capítulos/Passagem": "Estudo: Adoradores Exemplares - Lisço",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 117,
+    "Período/Livro": "Estudo Aprofundado - Recompensa AT",
+    "Capítulos/Passagem": "Tema: Recompensas e Blenãos do AT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 118,
+    "Período/Livro": "Estudo Aprofundado - Passagem e Proteção",
+    "Capítulos/Passagem": "Tema: Proteção e Providência Divina",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 119,
+    "Período/Livro": "Estudo Aprofundado - Restauração",
+    "Capítulos/Passagem": "Tema: Restauração e Novidade em Cristo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 120,
+    "Período/Livro": "Reflexão - Més 2 Resumo",
+    "Capítulos/Passagem": "Reflexão: Aprendizados do Mês 2",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 121,
+    "Período/Livro": "Reflexão - Més 2 Resumo",
+    "Capítulos/Passagem": "Reflexão: Versículos-chave memorizados",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 122,
+    "Período/Livro": "Estudo Aprofundado - Herança",
+    "Capítulos/Passagem": "Tema: Herança Espiritual no NT",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 123,
+    "Período/Livro": "Estudo Aprofundado - Milagres",
+    "Capítulos/Passagem": "Estudo: Milagres de Jesus",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 124,
+    "Período/Livro": "Estudo Aprofundado - Paróbolas",
+    "Capítulos/Passagem": "Estudo: Paróbolas de Jesus",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 125,
+    "Período/Livro": "Estudo Aprofundado - Sermon da Montanha",
+    "Capítulos/Passagem": "Estudo: Bem-Aventuranças e Ensinos",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 126,
+    "Período/Livro": "Estudo Aprofundado - A Ressurreição",
+    "Capítulos/Passagem": "Estudo: Evidencias da Ressurreição",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 127,
+    "Período/Livro": "Estudo Aprofundado - O Evangelho",
+    "Capítulos/Passagem": "Tema: O Evangelho em Profundidade",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 128,
+    "Período/Livro": "Estudo Aprofundado - Fé e Justiça",
+    "Capítulos/Passagem": "Tema: Fé, Justiça e Santicação",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 129,
+    "Período/Livro": "Estudo Aprofundado - Amor de Cristo",
+    "Capítulos/Passagem": "Tema: Amor e Sacrifício de Cristo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 130,
+    "Período/Livro": "Estudo Aprofundado - Esperança Cristã",
+    "Capítulos/Passagem": "Tema: Esperança Eterna em Cristo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 131,
+    "Período/Livro": "Estudo Aprofundado - Igreja Local",
+    "Capítulos/Passagem": "Tema: A Igreja - Corpo de Cristo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 132,
+    "Período/Livro": "Estudo Aprofundado - Memória de Deus",
+    "Capítulos/Passagem": "Tema: Lembrando das Maravilhas de Deus",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 133,
+    "Período/Livro": "Estudo Aprofundado - Fruto do Espírito",
+    "Capítulos/Passagem": "Tema: Fruto do Espírito Santo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 134,
+    "Período/Livro": "Estudo Aprofundado - Dons do Espírito",
+    "Capítulos/Passagem": "Tema: Dons Espirituais e Ministrios",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 135,
+    "Período/Livro": "Estudo Aprofundado - Batismo",
+    "Capítulos/Passagem": "Tema: Batismo e Confissão de Fé",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 136,
+    "Período/Livro": "Estudo Aprofundado - Ceia do Senhor",
+    "Capítulos/Passagem": "Tema: Comunhão e Ceia do Senhor",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 137,
+    "Período/Livro": "Estudo Aprofundado - Oraõ Modelo",
+    "Capítulos/Passagem": "Estudo: Pater Noster - Oração Modelo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 138,
+    "Período/Livro": "Estudo Aprofundado - Vitória em Cristo",
+    "Capítulos/Passagem": "Tema: Vitória Espiritual em Cristo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 139,
+    "Período/Livro": "Estudo Aprofundado - Vinda de Jesus",
+    "Capítulos/Passagem": "Tema: Segunda Vinda e Juizo Final",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 140,
+    "Período/Livro": "Reflexão - Més 3 Resumo",
+    "Capítulos/Passagem": "Reflexão: Aprendizados do Mês 3",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 141,
+    "Período/Livro": "Reflexão - Més 3 Resumo",
+    "Capítulos/Passagem": "Reflexão: Versículos-chave memorizados",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 142,
+    "Período/Livro": "Revisão Completa - NT e AT",
+    "Capítulos/Passagem": "Revisão Geral - Novo Testamento",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 143,
+    "Período/Livro": "Revisão Completa - AT Parte 1",
+    "Capítulos/Passagem": "Revisão: Pentateuco e Históricos",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 144,
+    "Período/Livro": "Revisão Completa - AT Parte 2",
+    "Capítulos/Passagem": "Revisão: Poesia, Sabedoria e Profetas",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 145,
+    "Período/Livro": "Ültima Reflexão - Dia 145",
+    "Capítulos/Passagem": "Reflexão: Plano Completo - Impacto Pessoal",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 146,
+    "Período/Livro": "Ültima Reflexão - Dia 146",
+    "Capítulos/Passagem": "Reflexão: Versículos Transformadores",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 147,
+    "Período/Livro": "Ültima Reflexão - Dia 147",
+    "Capítulos/Passagem": "Reflexão: Chamado Pessoal e Ministrio",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 148,
+    "Período/Livro": "Ültima Reflexão - Dia 148",
+    "Capítulos/Passagem": "Reflexão: Mudanças na Vida",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 149,
+    "Período/Livro": "Ültima Reflexão - Dia 149",
+    "Capítulos/Passagem": "Reflexão: Próximos Passos na Fé",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 150,
+    "Período/Livro": "Ültima Reflexão - Dia 150",
+    "Capítulos/Passagem": "Reflexão: Celebração da Jornada",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 151,
+    "Período/Livro": "Ültima Reflexão - Dia 151",
+    "Capítulos/Passagem": "Reflexão Final: Commitão Renovada",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 152,
+    "Período/Livro": "Ültima Reflexão - Dia 152",
+    "Capítulos/Passagem": "Reflexão Final: Gratídão Eterna",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 153,
+    "Período/Livro": "Ültima Reflexão - Dia 153",
+    "Capítulos/Passagem": "Reflexão Final: Abenções Realizadas",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 154,
+    "Período/Livro": "Ültima Reflexão - Dia 154",
+    "Capítulos/Passagem": "Reflexão Final: Crescimento Espiritual",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 155,
+    "Período/Livro": "Ültima Reflexão - Dia 155",
+    "Capítulos/Passagem": "Reflexão Final: Legado Espiritual",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 156,
+    "Período/Livro": "Ültima Reflexão - Dia 156",
+    "Capítulos/Passagem": "Reflexão Final: Esperança no Porvir",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 157,
+    "Período/Livro": "Ültima Reflexão - Dia 157",
+    "Capítulos/Passagem": "Reflexão Final: Paz de Cristo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 158,
+    "Período/Livro": "Ültima Reflexão - Dia 158",
+    "Capítulos/Passagem": "Reflexão Final: Amor Incondicional",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 159,
+    "Período/Livro": "Ültima Reflexão - Dia 159",
+    "Capítulos/Passagem": "Reflexão Final: Senhor de Tudo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 160,
+    "Período/Livro": "Ültima Reflexão - Dia 160",
+    "Capítulos/Passagem": "Reflexão Final: Fidelidade em Tudo",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 161,
+    "Período/Livro": "Ültima Reflexão - Dia 161",
+    "Capítulos/Passagem": "Reflexão Final: Obediência e Abenção",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 162,
+    "Período/Livro": "Ültima Reflexão - Dia 162",
+    "Capítulos/Passagem": "Reflexão Final: Pedão Perdurance",
+    "☑ Concluído": "☐"
+  },
+  {
+    "Dia": 163,
+    "Período/Livro": "CELEBRACĂO - Dia 163",
+    "Capítulos/Passagem": "CELEBRAÇÃO: Completar 180 Dias!",
+    "☑ Concluído": "☑"
+  }
+]

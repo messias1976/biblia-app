@@ -86,11 +86,27 @@ server/pdf/biblia.pdf
 
 ## Deploy
 
-Este projeto pode ser implantado em provedores como:
+### Opção gratuita: GitHub Pages (site estático)
+
+Uma versão estática do app foi adicionada em `docs/`. Ela funciona sem backend e salva o estado de leitura no navegador usando `localStorage`.
+
+Para usar:
+
+1. Coloque o arquivo `biblia.pdf` em `docs/biblia.pdf`.
+2. No GitHub, abra o repositório `messias1976/biblia-app`.
+3. Vá em Settings → Pages.
+4. Em "Source", selecione a branch `main` e a pasta `/docs`.
+5. Salve. Após alguns minutos, o site estará disponível gratuitamente.
+
+> Observação: a versão estática mantém o progresso das leituras apenas no navegador do usuário. Se o navegador for limpo, os dados serão perdidos.
+
+### Outras opções gratuitas
+
+Se você quiser ainda usar servidor, há provedores com planos gratuitos, mas eles podem exigir uma conta e não garantir persistência de arquivo:
 
 - [Render](https://render.com)
 - [Railway](https://railway.app)
-- [Heroku](https://www.heroku.com)
+- [Fly.io](https://fly.io)
 
 Basta apontar o serviço para a raiz do repositório e usar o comando:
 
